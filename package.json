@@ -1,0 +1,15 @@
+{
+  "name": "banner-background-video",
+  "version": "1.0.0",
+  "description": "This is for creating optimized banner background videos and only display for desktop. The goal is to have the video to not be loaded on mobile to help page speed scores.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
